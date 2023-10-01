@@ -28,8 +28,7 @@ backup because Im lazy
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=h1mzy0ti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="48">
-
-(https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)
-(https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp)
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="48">
+<img src="https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp" width="48">
 
                                 QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
