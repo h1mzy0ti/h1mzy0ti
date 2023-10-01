@@ -26,6 +26,6 @@ backup because Im lazy
        
 
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=h1mzy0ti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![An image of @h1mzy0ti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/h1mzy0ti)](https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp))
+[![An image of @h1mzy0ti's Holopin badges, which is a link to view their full Holopin profile](https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp)
 
                                 QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
