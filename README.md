@@ -1,7 +1,7 @@
 <!--
 **cyb3rsl0th/cyb3rsl0th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 backup because Im lazy
-- 🌱 I’m currently learning Binary Exploitation
+- 🌱 I’m currently learning DSA
 - ⚡ Fun fact: “The more you know, the more you know you don't know.”
 -->
 ## Hey 👋
@@ -12,11 +12,12 @@ backup because Im lazy
     skills.txt fun_fact.txt
     
     cyb3rsl0th@kali:~/myprofile$ cat skills.txt
-    Linux
-    C/C++
     Python
-    OSINT
-    Steganography
+    C/C++
+    HTML/CSS
+    Docker
+    Mysql
+    Mongodb
     
     cyb3rsl0th@kali:~/myprofile$ cat fun_fact.txt
     “The more you know, the more you know you don't know.”
