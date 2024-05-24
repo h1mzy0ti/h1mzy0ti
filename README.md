@@ -9,7 +9,7 @@ backup because Im lazy
 
     cyb3rsl0th@kali:~$ cd myprofile
     cyb3rsl0th@kali:~/myprofile$ ls
-    skills.txt fun_fact.txt
+    skills.txt
     
     cyb3rsl0th@kali:~/myprofile$ cat skills.txt
     Python
@@ -18,15 +18,7 @@ backup because Im lazy
     Docker
     Mysql
     Mongodb
-    
-    cyb3rsl0th@kali:~/myprofile$ cat fun_fact.txt
-    “The more you know, the more you know you don't know.”
-    
-    cyb3rsl0th@kali:~/myprofile$
-    
-    
-       
-       
+    AWS
 
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=h1mzy0ti&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
