@@ -2,37 +2,35 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: about me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: I am a student | developer | explorer 
+      - title: I am passionate about Cybersecurity, IoT and Cloud, yes I do play with microcontrollers and breadbords connecting
+      some resistors and capacitors in my free time.
+    
 
-  - title: all posts
+  - title: projects
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: all posts
     post_list:
-      category: example2
+      limit: 3
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: See archive...
+      show_more_url: archive.html
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: links
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+      - title: linkedIn
+      - title: github
+      - title: leetcode
+      - title: tryhackme
+
+
   - title: PRO TIP
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: The more you learn the more you understand you don't know anything !
