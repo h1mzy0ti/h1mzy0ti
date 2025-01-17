@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: About Me
+  - title: about Me
     entries:
       - title: "I am a student | developer | explorer"
       - title: >
@@ -28,9 +28,15 @@ entries:
   - title: links
     entries:
       - title: linkedIn
+        url: "https://www.linkedin.com/in/himjyoti-talukdar-21411222b/"
       - title: github
+        url: "https://github.com/h1mzy0ti"
       - title: leetcode
+        url: "https://leetcode.com/"
+      - title: twitter (x)
+        url: "https://x.com/0xh1mzy"
       - title: tryhackme
+        url: "https://leetcode.com/"
 
 
   - title: PRO TIP
