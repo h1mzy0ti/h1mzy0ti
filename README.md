@@ -13,7 +13,7 @@ Development | DSA | IoT | CyberSecurity
 - 🪴 Mongodb, Mysql
 - 🚀 Git, Docker, Aws 
 
-I also play around with security stuffs in my free time
+I also play around with security stuffs in my free time.
 
 
                                 QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
