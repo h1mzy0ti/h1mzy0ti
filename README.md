@@ -11,7 +11,7 @@ Development | DSA | IoT | CyberSecurity
 - ❤️ Python, Html, CSS, C
 - 🤝 Flask, Django
 - 🪴 Mongodb, Mysql
-- 🚀 Git, Docker, Aws 
+- 🚀 Git, Docker, Aws, Linux
 
 I also play around with security stuffs in my free time.
 
