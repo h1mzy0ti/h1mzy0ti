@@ -8,8 +8,8 @@ Development | DSA | IoT | CyberSecurity
 **About me**
 
 - 💼 Open to work
-- ❤️ Python, Html, CSS, C
-- 🤝 Flask, Django
+- ❤️ Python, C, Html & CSS
+- 🤝 Flask, Django, Matplotlib, Pandas 
 - 🪴 Mongodb, Mysql
 - 🚀 Git, Docker, Aws, Linux
 
