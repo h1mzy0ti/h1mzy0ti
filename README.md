@@ -3,8 +3,6 @@
 
 <h2> Hi, I'm Himzyoti <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF1bXZlcWE5cTI5Mndic3libGkzenVmOWtxaXMweDN2OGNwaDk4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif" width="50"></h2>
 
-Development | DSA | IoT | CyberSecurity
-
 **About me**
 
 - 💼 Open to work
