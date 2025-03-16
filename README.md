@@ -6,9 +6,9 @@
 **About me**
 
 - 💼 Open to work
-- ❤️ Python, C, Html & CSS
-- 🤝 Flask, Django, Matplotlib, Pandas 
-- 🪴 Mongodb, Mysql
+- ❤️ Python, Html & CSS
+- 🤝 Django, Matplotlib, Pandas 
+- 🪴 Mysql, Mongodb
 - 🚀 Git, Docker, Aws, Linux
 
 I also play around with security stuffs in my free time.
