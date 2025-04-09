@@ -7,11 +7,11 @@
 
 - 💼 Open to work
 - ❤️ Python, Html & CSS
-- 🤝 Django, Matplotlib, Pandas 
+- 🤝 Django, Django REST framework, Matplotlib 
 - 🪴 Mysql, Mongodb
 - 🚀 Git, Docker, Aws, Linux
 
-I also play around with security stuffs in my free time.
+I also play around with security stuffs and microcontrollers in my free time.
 
 
                                 QWRkIG1lIG9uIFRyeSBIYWNrIE1lLCBUaGUgdXNlcm5hbWU/IFdlbGwgc2FtZSBhcyBvbiBnaXRodWIu
