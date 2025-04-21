@@ -9,7 +9,7 @@
 - ❤️ Python, Html & CSS
 - 🤝 Django, Django REST framework, Matplotlib 
 - 🪴 Mysql, Mongodb
-- 🚀 Git, Docker, Aws, Linux
+- 🚀 Git, Postman, Render, Docker, Aws, Linux
 
 I also play around with security stuffs and microcontrollers in my free time.
 
