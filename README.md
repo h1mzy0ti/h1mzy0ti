@@ -6,9 +6,9 @@
 **About me**
 
 - ❤️ Python, Html & CSS
-- 🤝 Django, Django REST framework, Matplotlib 
-- 🪴 PostgreSQL, Mysql, Mongodb
-- 🚀 Git, Postman, Render, Docker, Aws, Linux
+- 🤝 Django, Django REST framework, Flask, Fast API Matplotlib 
+- 🪴 PostgreSQL, Mysql, Mongodb, Redis
+- 🚀 Git, Postman, Render, Docker, Aws, GCP, Linux
 
 I also play around with security stuffs and microcontrollers in my free time.
 
