@@ -3,11 +3,9 @@
 
 <h2> Hi, I'm Himjyoti <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF1bXZlcWE5cTI5Mndic3libGkzenVmOWtxaXMweDN2OGNwaDk4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif" width="50"></h2>
 
-**About me**
-
-- ❤️ Python, Html & CSS
-- 🤝 Django, Django REST framework, Flask, Fast API Matplotlib 
-- 🪴 PostgreSQL, Mysql, Mongodb, Redis
+- ❤️ Python, Golang
+- 🤝 Django, Django REST framework, Flask, Fast API, Gin 
+- 🪴 PostgreSQL, Mysql, Mongodb, Redis, Kafka
 - 🚀 Git, Postman, Render, Docker, Aws, GCP, Linux
 
 I also play around with security stuffs and microcontrollers in my free time.
